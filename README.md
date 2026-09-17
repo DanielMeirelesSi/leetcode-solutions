@@ -18,13 +18,16 @@ Cada exercício possui sua própria solução, documentação e casos de teste p
 | 08 | 283 | [Move Zeroes](./08-move-zeroes/README.md) | Fácil | Array, Two Pointers | [C#](./08-move-zeroes/Solution.cs) |
 | 09 | 70 | [Climbing Stairs](./09-climbing-stairs/README.md) | Fácil | Dynamic Programming | [C#](./09-climbing-stairs/Solution.cs) |
 | 10 | 3 | [Longest Substring Without Repeating Characters](./10-longest-substring-without-repeating-characters/README.md) | Médio | String, Hash Table, Sliding Window | [C#](./10-longest-substring-without-repeating-characters/Solution.cs) |
+| 11 | 206 | [Reverse Linked List](./11-reverse-linked-list/README.md) | Fácil | Linked List, Recursion | [C#](./11-reverse-linked-list/Solution.cs) |
+| 12 | 53 | [Maximum Subarray](./12-maximum-subarray/README.md) | Médio | Array, Divide and Conquer, Dynamic Programming | [C#](./12-maximum-subarray/Solution.cs) |
+| 13 | 200 | [Number of Islands](./13-number-of-islands/README.md) | Médio | Array, DFS, BFS, Matrix | [C#](./13-number-of-islands/Solution.cs) |
 
 ## Progresso
 
-Resolvidos até o momento: 10
+Resolvidos: 13
 
-Fácil: 9  
-Médio: 1  
+Fácil: 10  
+Médio: 3  
 Difícil: 0
 
 ## Executando localmente
