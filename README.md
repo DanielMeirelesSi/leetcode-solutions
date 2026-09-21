@@ -21,13 +21,15 @@ Cada exercício possui sua própria solução, documentação e casos de teste p
 | 11 | 206 | [Reverse Linked List](./11-reverse-linked-list/README.md) | Fácil | Linked List, Recursion | [C#](./11-reverse-linked-list/Solution.cs) |
 | 12 | 53 | [Maximum Subarray](./12-maximum-subarray/README.md) | Médio | Array, Divide and Conquer, Dynamic Programming | [C#](./12-maximum-subarray/Solution.cs) |
 | 13 | 200 | [Number of Islands](./13-number-of-islands/README.md) | Médio | Array, DFS, BFS, Matrix | [C#](./13-number-of-islands/Solution.cs) |
+| 14 | 141 | [Linked List Cycle](./14-linked-list-cycle/README.md) | Fácil | Hash Table, Linked List, Two Pointers | [C#](./14-linked-list-cycle/Solution.cs) |
+| 15 | 238 | [Product of Array Except Self](./15-product-of-array-except-self/README.md) | Médio | Array, Prefix Sum | [C#](./15-product-of-array-except-self/Solution.cs) |
 
 ## Progresso
 
-Resolvidos: 13
+Resolvidos: 15
 
-Fácil: 10  
-Médio: 3  
+Fácil: 11  
+Médio: 4  
 Difícil: 0
 
 ## Executando localmente
