@@ -33,14 +33,19 @@ Cada exercício possui sua própria solução, documentação e casos de teste p
 | 23 | 76 | [Minimum Window Substring](./23-minimum-window-substring/README.md) | Difícil | String, Hash Table, Sliding Window | [C#](./23-minimum-window-substring/Solution.cs) |
 | 24 | 84 | [Largest Rectangle in Histogram](./24-largest-rectangle-in-histogram/README.md) | Difícil | Array, Monotonic Stack | [C#](./24-largest-rectangle-in-histogram/Solution.cs) |
 | 25 | 42 | [Trapping Rain Water](./25-trapping-rain-water/README.md) | Difícil | Array, Two Pointers | [C#](./25-trapping-rain-water/Solution.cs) |
+| 26 | 312 | [Burst Balloons](./26-burst-balloons/README.md) | Difícil | Array, Dynamic Programming, Interval DP | [C#](./26-burst-balloons/Solution.cs) |
+| 27 | 127 | [Word Ladder](./27-word-ladder/README.md) | Difícil | String, Graph, BFS, Hash Table | [C#](./27-word-ladder/Solution.cs) |
+| 28 | 212 | [Word Search II](./28-word-search-ii/README.md) | Difícil | Array, String, Trie, Backtracking | [C#](./28-word-search-ii/Solution.cs) |
+| 29 | 4 | [Median of Two Sorted Arrays](./29-median-of-two-sorted-arrays/README.md) | Difícil | Array, Binary Search, Divide and Conquer | [C#](./29-median-of-two-sorted-arrays/Solution.cs) |
+| 30 | 239 | [Sliding Window Maximum](./30-sliding-window-maximum/README.md) | Difícil | Array, Sliding Window, Monotonic Queue, Deque | [C#](./30-sliding-window-maximum/Solution.cs) |
 
 ## Progresso
 
-Resolvidos: 25
+Resolvidos: 30
 
 Fácil: 11  
 Médio: 11  
-Difícil: 3
+Difícil: 8
 
 ## Executando localmente
 
